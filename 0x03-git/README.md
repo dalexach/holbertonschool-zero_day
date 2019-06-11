@@ -1,1 +1,1 @@
-Created by Daniela Chamorro Project to know git
+Created by Daniela Chamorro Project to know Git and GitHub
